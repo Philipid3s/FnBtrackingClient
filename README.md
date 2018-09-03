@@ -11,6 +11,6 @@ Features:
 - View and edit feedback
 - Delete selected feedback
 
-We access data through a [REST API](https://app-fnbtracking-api.herokuapp.com/api/feedbacks).
+We access data through a REST API: https://app-fnbtracking-api.herokuapp.com/api/feedbacks
 
 Powered by [React](https://reactjs.org/)
