@@ -2,7 +2,7 @@
 
 Web App for the tracking of In-Flight Food and Beverage wastage. 
 
-According to the International Air Transport Association, airlines produced 5.2 million tons of waste per year. This amount could reach 10 million tons annually by 2030 !
+According to the International Air Transport Association, airlines produce around 5 million tons of waste per year. This amount could reach 10 million tons annually by 2030 !
 
 Hosted on [Heroku](https://app-fnbtracking.herokuapp.com/): https://app-fnbtracking.herokuapp.com/
 
